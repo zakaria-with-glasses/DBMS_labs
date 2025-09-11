@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS Students (
 CREATE TABLE IF NOT EXISTS Courses( 
   course_id INT auto_increment primary key ,
   course_name varchar(50) NOT NULL, 
-  credits varchar(50) NOT NULL -- not sure if this is for the course description or whatever ;)
+  credits INT -- not sure if this is for the course description or whatever ;)
   ); 
 
 CREATE TABLE IF NOT EXISTS Instructors( 
