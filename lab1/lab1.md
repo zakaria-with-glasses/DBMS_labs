@@ -3,7 +3,7 @@
 the following paragraphs will contain a step by step solution on how to recreate the desired data.
 
 ## Questions 1 - 5 
-the solution to this part is presented in the [lab1.sql](https://github.com/zakaria-with-glasses/DBMS_labs/blob/main/lab1.sql)
+the solution to this part is presented in the [lab1.sql](https://github.com/zakaria-with-glasses/DBMS_labs/blob/main/lab1/lab1.sql)
 
 ## Questions 6-7-8
 to insert the desired table content i will do the to each of the tables respectively
